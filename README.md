@@ -48,7 +48,7 @@ Stránky Komise jsou většinou v angličtině; česká verze je uvedena tam, kd
 <a id="terminy"></a>
 ## Termíny
 
-Podle konsolidovaného znění ke dni 27. 7. 2026 (články 111 a 113) a nařízení 2026/1744. Přesné citace jsou ve [FAKTA.md](FAKTA.md).
+Podle konsolidovaného znění ke dni 27. 7. 2026 (články 57, 111 a 113) a nařízení 2026/1744. Přesné citace jsou ve [FAKTA.md](FAKTA.md).
 
 | Od kdy | Co platí | Článek |
 |---|---|---|
@@ -67,7 +67,7 @@ Podle konsolidovaného znění ke dni 27. 7. 2026 (články 111 a 113) a naříz
 **Stav ke dni 31. 10. 2026: schválení a znění českého zákona k provádění AI Actu jsme z primárního zdroje neověřili.** Níže jsou jen zdroje, které se podařilo ověřit.
 
 - [Ministerstvo průmyslu a obchodu: MPO připravilo návrh zákona o umělé inteligenci](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/mpo-pripravilo-navrh-zakona-o-umele-inteligenci--cilem-je-vytvorit-co-nejlepsi-prostredi-pro-rozvoj-ai-v-cesku--289653/) · tisková zpráva z 26. 9. 2025; návrh tehdy v meziresortním připomínkovém řízení, dozor podle návrhu rozdělen mezi ČTÚ, ČNB a ÚOOÚ.
-- [Ministerstvo průmyslu a obchodu: Umělá inteligence](https://mpo.gov.cz/cz/podnikani/digitalni-ekonomika/umela-inteligence/) · stránka uvádí MPO jako gestora AI Actu od 28. 5. 2025.
+- [Ministerstvo průmyslu a obchodu: Umělá inteligence](https://mpo.gov.cz/cz/podnikani/digitalni-ekonomika/umela-inteligence/) · stránka uvádí MPO jako gestora AI Actu od 28. 5. 2025 a jako orgány podle čl. 77 AI Actu Úřad pro ochranu osobních údajů a Kancelář veřejného ochránce práv.
 - [Český telekomunikační úřad: Digitální maják](https://digimajak.ctu.gov.cz/) · informační portál ČTÚ, mimo jiné o AI Actu pro veřejnost, spuštěný 15. 9. 2026.
 - [Český telekomunikační úřad: tisková zpráva ke spuštění Digitálního majáku](https://ctu.gov.cz/tiskova-zprava-ctu-spousti-digitalni-majak.-rodicum-poradi-jak-chranit-deti-online-vcetne) · tisková zpráva z 15. 9. 2026.
 

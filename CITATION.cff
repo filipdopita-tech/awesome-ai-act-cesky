@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Pokud seznam citujete, použijte tyto údaje."
+title: "Awesome AI Act česky"
+abstract: "Kurátorovaný seznam ověřených zdrojů k nařízení o umělé inteligenci (AI Act) v češtině."
+type: dataset
+authors:
+  - name: "Český Institut pro AI a Data z.ú."
+    website: "https://ciad.cz/"
+date-released: "2026-10-31"
+license: CC-BY-4.0
+url: "https://filipdopita-tech.github.io/awesome-ai-act-cesky/"
+repository-code: "https://github.com/filipdopita-tech/awesome-ai-act-cesky"
+keywords:
+  - AI Act
+  - umělá inteligence
+  - regulace
+  - Česko

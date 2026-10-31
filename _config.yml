@@ -1,0 +1,14 @@
+title: "AI Act česky · kurátorovaný seznam zdrojů"
+description: "Ověřené zdroje k AI Actu v češtině: nařízení 2024/1689, novela 2026/1744, pokyny Komise, termíny, česká úprava a data CIAD. Stav k 31. 10. 2026."
+lang: cs
+url: "https://filipdopita-tech.github.io"
+baseurl: "/awesome-ai-act-cesky"
+theme: jekyll-theme-minimal
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
